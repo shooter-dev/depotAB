@@ -1,0 +1,6 @@
+[submodule "A"]
+	path = A
+	url = https://github.com/shooter-dev/depotA.git
+[submodule "B"]
+	path = B
+	url = https://github.com/shooter-dev/depotB.git
